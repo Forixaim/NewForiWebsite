@@ -16,7 +16,7 @@
 
 .header 
 {
-	display: flex;
+	display: block;
 	flex: 1;
 	padding: 0;
 	margin: 0;
@@ -27,18 +27,25 @@
 }
 
 .header a {
-	display: flex;
+	display: block;
 	justify-content: center;
 	align-items: center;
 	flex-grow: 1;
 }
 
-
-
-.NavBar
+.navLink
 {
+	color: #ffffff;
+	display: block;
+	height: 30px;
+	width: auto;
+	float: left;
+}
+
+.NavBar {
 	background-color: #333333;
 	list-style-type: none;
+	display: block;
 }
 
 .footer {
