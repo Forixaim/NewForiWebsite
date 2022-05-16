@@ -18,10 +18,12 @@ const Home: NextPage = () => {
 				</ul>
 			</header>
 			<main className={styles.main}>
-				<h1>sus</h1>
+				<h1>Forixaim</h1>
+				<p>Hello there I am Forixaim, the C++ guy. This new website will replace my old website.</p>
+				<p>I don't know how to use TypeScript, so help would be awesome!</p>
 			</main>
 			<footer>
-				<p>Website by Forixaim, AYO HE IS DOING TYPESCRIPT!</p>
+				<p>Website by Forixaim. Powered by Next.js!</p>
 			</footer>
 		</div>
 	)
