@@ -20,8 +20,8 @@ const Projects: NextPage = () => {
 			<main className={styles.main}>
 				<h1>Projects</h1>
 				<h2>Project: Omneria</h2>
-				<p>Project: Omneria is my game being under development, the game is an open world RPG with one of the most ambitious combat systems ever in game development industry, with everything from Parries, Shields, Temperature, Dark Souls esque boss AI, and much, much more! Project: Omneria is the Founder's Magnum Opus.</p>
-				<Link href="https://omneria.forixaim.net/"><button>Project: Omneria's Official Website (Under Development)</button></Link>
+				<p>Project: Omneria is my game being under development, the game is an open world RPG with one of the most ambitious combat systems ever in game development industry, with everything from Parries, Shields, Temperature, Dark Souls esque boss AI, and much, much more! Project: Omneria is the Founder&apos;s Magnum Opus.</p>
+				<Link href="https://omneria.forixaim.net/"><button>Project: Omneria&apos;s Official Website (Under Development)</button></Link>
 				<h2>Tetra</h2>
 				<p>Tetra is a discord bot created to test my own mettle in C++ programming and is the only few discord bots programmed in C++ compared to the majority in Python or JavaScript.</p>
 				<Link href="https://discord.com/api/oauth2/authorize?client_id=957411479668260884&permissions=8&scope=bot%20applications.commands"><button>Invite the Bot</button></Link>
