@@ -20,6 +20,7 @@ const Home: NextPage = () => {
 				<h1>Forixaim</h1>
 				<p>Hello there I am Forixaim, the C++ guy. This new website will replace my old website.</p>
 				<p>I don&apos;t know how to use TypeScript, so help would be awesome!</p>
+				<p>Alright, use the navigation bar above to navigate to other aspects of the page, there we can have some fun.</p>
 			</main>
 			<footer>
 				<p>Website by Forixaim. Powered by Next.js and React!</p>

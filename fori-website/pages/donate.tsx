@@ -16,8 +16,8 @@ const About: NextPage = () =>
 				<Navbar/>
 		</header>
 		<main className={styles.main}>
-				<h1>About Forixaim</h1>
-				<p>Hey! I am Matthew, C++ programmer, I am the CTO of 2022-2023 Newport High School Programming Club. Fresh out of the pandemic, I was thrown into some hard times, but perserverd and broke free.</p>
+				<h1>Donate</h1>
+				<p>There is still no donate button. New website, no donate.</p>
 		</main>
 		<footer>
 			<p>Website by Forixaim. Powered by Next.js!</p>
