@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Navbar from '../components/navbar'
 import styles from '../styles/About.module.css'
 
-const About: NextPage = () =>
+const Contact: NextPage = () =>
 {
 	return (
 		<div className={styles.container}>
@@ -26,4 +26,4 @@ const About: NextPage = () =>
 	)
 }
 
-export default About
+export default Contact

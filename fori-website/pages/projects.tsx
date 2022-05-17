@@ -6,7 +6,7 @@ import Navbar from '../components/navbar'
 import "bootstrap/dist/css/bootstrap.min.css";
 import Link from 'next/link'
 
-const Home: NextPage = () => {
+const Projects: NextPage = () => {
 	return (
 		<div className={styles.container}>
 			<Head>
@@ -33,4 +33,4 @@ const Home: NextPage = () => {
 	)
 }
 
-export default Home
+export default Projects
