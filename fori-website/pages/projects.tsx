@@ -18,7 +18,7 @@ const Projects: NextPage = () => {
 				<Navbar/>
 			</header>
 			<main className={styles.main}>
-				<h1>Projects</h1>
+				<h1 className={styles.title}>Projects</h1>
 				<h2>Project: Omneria</h2>
 				<p>Project: Omneria is my game being under development, the game is an open world RPG with one of the most ambitious combat systems ever in game development industry, with everything from Parries, Shields, Temperature, Dark Souls esque boss AI, and much, much more! Project: Omneria is the Founder&apos;s Magnum Opus.</p>
 				<Link href="https://omneria.forixaim.net/"><button>Project: Omneria&apos;s Official Website (Under Development)</button></Link>

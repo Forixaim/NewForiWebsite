@@ -17,10 +17,9 @@ const Home: NextPage = () => {
 				<Navbar/>
 			</header>
 			<main className={styles.main}>
-				<h1>Forixaim</h1>
-				<p>Hello there I am Forixaim, the C++ guy. This new website will replace my old website.</p>
-				<p>I don&apos;t know how to use TypeScript, so help would be awesome!</p>
-				<p>Alright, use the navigation bar above to navigate to other aspects of the page, there we can have some fun.</p>
+				<h1 className={styles.title}>Forixaim</h1>
+				
+				<p className={styles.description}>Hello there I am Forixaim, the C++ guy. This new website will replace my old website. I don&apos;t know how to use TypeScript, so help would be awesome! Alright, use the navigation bar above to navigate to other aspects of the page, there we can have some fun.</p>
 			</main>
 			<footer>
 				<p>Website by Forixaim. Powered by Next.js and React!</p>
