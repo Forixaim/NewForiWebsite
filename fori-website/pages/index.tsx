@@ -19,7 +19,7 @@ const Home: NextPage = () => {
 			<main className={styles.main}>
 				<h1>Forixaim</h1>
 				<p>Hello there I am Forixaim, the C++ guy. This new website will replace my old website.</p>
-				<p>I don't know how to use TypeScript, so help would be awesome!</p>
+				<p>I don&apos;t know how to use TypeScript, so help would be awesome!</p>
 			</main>
 			<footer>
 				<p>Website by Forixaim. Powered by Next.js and React!</p>
