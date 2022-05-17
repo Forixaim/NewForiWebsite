@@ -1,10 +1,10 @@
-import React from 'react'
+import next from "next"
+import styles from '../styles/NavBar.module.css'
 
 const Navbar = () =>
 {
-	return
-	(
-		<nav className="navbar navbar-expand-lg navbar-light bg-light">
+	return (
+		<nav className="navbar navbar-expand-lg navbar-light bg-dark">
 			<a className="navbar-brand" href="#">
 				Navbar
 			</a>
@@ -21,27 +21,27 @@ const Navbar = () =>
 					</li>
 					<li className="nav-item">
 						<a className="nav-link" href="#">
-							Features
+							About
 						</a>
 					</li>
 					<li className="nav-item">
 						<a className="nav-link" href="#">
-							Pricing
+							Contact
 						</a>
 					</li>
 					<li className="nav-item dropdown">
 						<a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							Dropdown link
+							Projects
 						</a>
 						<div className="dropdown-menu"aria-labelledby="navbarDropdownMenuLink">
 							<a className="dropdown-item" href="#">
-								Action
+								Project: Omneria
 							</a>
 							<a className="dropdown-item" href="#">
-								Another action
+								Tetra
 							</a>
 							<a className="dropdown-item" href="#">
-								Something else here
+								Probably Something Else...
 							</a>
 						</div>
 					</li>
